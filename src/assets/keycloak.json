@@ -1,0 +1,11 @@
+{
+    "realm": "AR4U",
+    "auth-server-url": "https://kc.dev.unikom.vn/auth/",
+    "ssl-required": "external",
+    "resource": "1025316855790-3t5s2es0dr2cleokqk0iu72nsrauk8k6.apps.googleusercontent.com",
+    "credentials": {
+      "secret": "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"
+    },
+    "confidential-port": 0
+  }
+  
